@@ -1,0 +1,2 @@
+org/keycloak/examples/authenticator/ErrorIfUniqueAuthenticator.class
+org/keycloak/examples/authenticator/ErrorIfUniqueAuthenticatorFactory.class
